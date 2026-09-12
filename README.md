@@ -1,4 +1,4 @@
-# Open-source EDA Education Awesome List
+# Open-Source EDA Education Awesome List
 
 This list is a catalog of courses and trainings using open-source EDA tools to teach concepts: chip design/implementation, SoC design, analog design, design automation algorithms, and more.
 
@@ -6,8 +6,8 @@ This list is a catalog of courses and trainings using open-source EDA tools to t
 
 This list consists of courses, trainings, and programs with freely available open-source materials.
 
-- [UC San Diego ECE 260C](https://abkcourses.github.io/ece260c)
-- [ETH Zurich VLSI2](https://vlsi.ethz.ch/wiki/Main_Page)
+- [ETH Zurich VLSI2: Open-Source VLSI Design](https://vlsi.ethz.ch/wiki/Main_Page)
+- [UC San Diego ECE 260C: Advanced VLSI Design and Open-Source EDA](https://abkcourses.github.io/ece260c)
 - [UAS Augsburg Master VLSI](https://openvlsi.fke.tha.de/msvlsi/)
 - [YSYX One Student One Chip](https://ysyx.oscc.cc/en/)
 - [OpenROAD Micro 2022 Tutorial](https://the-openroad-project.github.io/micro2022tutorial/)
